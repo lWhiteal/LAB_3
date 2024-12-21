@@ -1,0 +1,12 @@
+Name                 Surname              Initials   Journal Name                   Year  Volume RSCI  Pages Citations
+----------------------------------------------------------------------------------------------------------------------------------
+PhQGHuMEAyLnLFDxFIRCVScXGgbWkFNQdUXWFNFoZVsrTKjprepGgXrpNrvYStMwCYSYyCQPEvIkEffmzNiMKKASVWSRENzkYcXfXtlsGYPsfADPOOEfXzbCoEjuVpVABOYgPOEYlFpbnpLJvrvIP yAMYEHWqNQRQpmXuJJLooVaoWuXWhmSncbxcoKSFZKvatxDkn LYjyhFiXJ  SwNKKufnUxXzRZBMNmGQoOKETLYHnKoAugZQrcddiutEI 1073742145 6422625 true  6619256 1073742145
+OJWAYYZPvsCmPsAJLFvGubFaaoVLzyLntRkDcPWsrTeSjwHDizCObZ 1834                 50         Yes                            4513  45    true  6619256 1073742145
+qIjtVdWVXHrcbLdvGYLWgBUsbmBoRXtLHCSmPXOHgMgnKeUfDxoToGBGxPeYAnfETcUKEpzshkLjUgGgEKJDQZjEnPEVqGXIePJsRdzJaZujLlCHHbFqMkImWZObIwYBXduuNfsKsRSRTekMQdcYz JeEuhmSRqcozIJipFIOnEEDdPszRnaVyMMtaTbdzqSoeMUVNp pPSUaCBaZ  UXmHEcThLegRpunKDmbpPweqTGjOpaRmOwZDqyoXYTjBb 4513  45    true  6619256 1073742145
+HawDyDCPrJbXPhOOhPkWQYuHrqZhNBNFuVQNQQlrZJPXIogvlIExDz 1709                 38         No                             557   93    true  6619256 1073742145
+KrUSvOjbRZMwZPOwKJiLefRaAMDiGpnpuuHgXPQnjwJmWAxxmnSnhHlqqrzuDltfzOTcjTNZXuGLSdsmZCNockVFaJfRMxotHOWkBjZWUCwLJFRIMpmyhCHZriwkbARXbGfCbCEYHJuGixwtbVtRe HBbCpxiFbXVfbCgKCfQcKcoTZgKuBmJRMbszTSShFroeFwsJr xjHGuZyUp  zwWeiQUrPiXIqFLDuuvEoOWqcUdhNEfnJHAIMUczfSKuI 557   93    true  6619256 1073742145
+DUBURiSWTbreCuYkABfCVKdzEzTOIDUKUhJzEFCZZZbfKqDPQzIkfo 1586                 35         No                             4962  59    true  6619256 1073742145
+ThXDjgKJeLRlpAxamcEroSwitdPtpccLifKeLjyTIhRCqAyBnEFXNXVGzeDYYHngyCDRudmPHMeCkotrWOsPofGHFozqvLQFxwWkMFxDyygMDCaszSGovSOdKJghcwmBmXRMhUYFYQGAjQkcKLzNA YxQkqOYZWmYuBZAZCPkHKtKYDzIvCuypURFmbIsgEkyrgZVxD hpOAMvafY  rarXsVkHTQDiHErSIGBHZjzujxmMySPnaraEWkeGjCcVh 4962  59    true  6619256 1073742145
+hrjVbjTSQdjOoTgPKNfPfyCgFiEowQRwWwpZSQmEtOgePspXnvJIUp 1329                 82         No                             1673  39    true  6619256 1073742145
+mKMNuVKlhsecdwrAcGFmZKGIpDFodKJmJQwiqpUOQHiMvfVUzWyViJGFUlLKJduHSjAfBTLkmFQrmYjfjNHHsSqcTYDTEAmDcJbpRhTNEgYIwxgCJwLGRsMEaeArwtVjsjbAoIojlWhYPNvRUIHOs WKifygtYdHacWyHSgeWZmtGOnZLtjHGauhNIHReQgjFWkJSmt pjhAefqZa  AuLDrCHJCcDYRFvvrivUyEEgFIvdrCyGuRqDREdakUBNf 1673  39    true  6619256 1073742145
+GUpROqyLobcWqxKZmaUSJGmHcMHgDNMPHNqKAMhUrktrfFACLVGrzK 1672                 44         Yes                            2515  68    true  6619256 1073742145

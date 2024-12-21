@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "lib.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "doubly_linked_list.h": "c",
+        "xutility": "c",
+        "bubble_sort.h": "c"
+    }
+}
